@@ -1,6 +1,6 @@
 ### The Data Warehouse I used for this project
 
-![Alt Text](./datawarehouse_image.png)
+![Alt Text](../datawarehouse_image.png)
 
 1. ['01_top_demanded_skills.sql'](./01_top_demanded_skills.sql) - Top skills in the remote data engineering sector.
 
