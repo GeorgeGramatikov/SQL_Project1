@@ -1,4 +1,8 @@
-### The Data Warehouse I used for this project
+### The Project (Data Analysis for Job Market)
+
+![Alt Text](../Data_Project.png)
+
+### The Data Warehouse I Used For This Project
 
 ![Alt Text](../datawarehouse_image.png)
 
