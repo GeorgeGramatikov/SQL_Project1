@@ -1,6 +1,6 @@
 # SQL Projects
 
-These three tasks from Project1 showcase my fundamentals with SQL. 
+Project1 will showcase three tasks demonstrating my fundamentals with SQL. 
 
 -> I will be analyzing data engineer market trends using advanced query techniques.
 
